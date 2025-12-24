@@ -33,7 +33,7 @@
       justify-content: center;
       text-align: center;
       background: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)),
-        url('https://images.unsplash.com/photo-1517836357463-d25dfeac3438') center/cover no-repeat;
+        url('https://images.unsplash.com/photo-1503951914875-452162b0f3f1') center/cover no-repeat;
     }
     header h1 {
       font-size: clamp(2.5rem, 6vw, 4rem);
@@ -128,9 +128,3 @@
 
 </body>
 </html>
-
-
-
-
-
-
